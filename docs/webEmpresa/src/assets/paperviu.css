@@ -1,0 +1,248 @@
+.landing {
+    background: url('pexels-photo-274937.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 600px;
+}
+
+.bkg {
+    background: url('film-movie-motion-picture-390089.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 300px;
+}
+
+.bkg5 {
+    background: url('film-movie-motion-picture-390089.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 600px;
+}
+
+.bkg6 {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 600px;
+}
+
+.bkg2 {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 300px;
+}
+
+.bkg3 {
+    background: url('film-movie-motion-picture-390089.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 250px;
+}
+
+.bkg4 {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 250px;
+}
+
+.transp {
+    background: rgba(85, 93, 102, 0.89);
+    height: 600px
+}
+
+.transp2 {
+    background: rgba(85, 93, 102, 0.89);
+    height: 600px
+}
+
+.transp3 {
+    background: rgba(85, 93, 102, 0.89);
+    height: 80px
+}
+
+.transp4 {
+    background: rgba(85, 93, 102, 0.89);
+    height: 300px
+}
+
+.transp5 {
+    background: rgba(85, 93, 102, 0.89);
+    height: 250px
+}
+
+.transp6 {
+    background: rgba(241, 245, 249, 0.95);
+    height: 600px
+}
+
+.paperviu-sky {
+    color: #f6f9f9;
+    background-color: #6eb0c0 !important
+}
+
+.paperviu-dark {
+    color: #f6f9f9 !important;
+    background-color: #555d66 !important
+}
+
+.border-top-paperviu-sky {
+    border-color: #6eb0c0 !important;
+    border-top-style: solid;
+    border-top-width: 3px
+}
+
+.border-right-paperviu-sky {
+    border-color: #6eb0c0 !important;
+    border-right-style: solid;
+    border-right-width: 3px
+}
+
+.border-sky {
+    border-color: #6eb0c0 !important;
+}
+
+.border-left-paperviu-sky {
+    border-color: #6eb0c0 !important;
+    border-left-style: solid;
+    border-left-width: 3px
+}
+
+.border-bottom-paperviu-sky {
+    border-color: #6eb0c0 !important;
+    border-bottom-style: solid;
+    border-bottom-width: 3px
+}
+
+.border-top-paperviu-dark {
+    border-color: #555d66 !important;
+    border-top-style: solid;
+    border-top-width: 3px
+}
+
+.border-left-paperviu-dark {
+    border-color: #555d66 !important;
+    border-left-style: solid;
+    border-left-width: 3px
+}
+
+.border-bottom-paperviu-dark {
+    border-color: #555d66 !important;
+    border-bottom-style: solid;
+    border-bottom-width: 3px
+}
+
+.hover-paperviu-sky:hover {
+    color: #f6f9f9 !important;
+    background-color: #6eb0c0 !important
+}
+
+.hover-paperviu-dark:hover {
+    color: #f6f9f9 !important;
+    background-color: #555d66 !important
+}
+
+.hover-text-paperviu-sky:hover {
+    color: #6eb0c0 !important
+}
+
+.hover-text-paperviu-dark:hover {
+    color: #555d66 !important
+}
+
+.hover-border-paperviu-sky:hover {
+    border-color: #6eb0c0 !important
+}
+
+.hover-border-paperviu-dark:hover {
+    border-color: #555d66 !important
+}
+
+.text-paperviu-sky {
+    color: #6eb0c0 !important
+}
+
+.text-paperviu-dark {
+    color: #555d66 !important
+}
+
+.paperviu-e7 {
+    color: #555d66;
+    background-color: #e7f3f3 !important;
+}
+
+.hover-paperviu-e7:hover {
+    color: #555d66 !important;
+    background-color: #e7f3f3 !important
+}
+
+.text-paperviu-e7 {
+    color: #e7f3f3 !important
+}
+
+.paperviu-e9 {
+    color: #555d66;
+    background-color: #e1f1f1 !important
+}
+
+.hover-paperviu-e9:hover {
+    color: #555d66 !important;
+    background-color: #e1f1f1 !important
+}
+
+.paperviu-d7 {
+    color: #f6f9f9;
+    background-color: #666d75 !important;
+}
+
+.hover-paperviu-d7:hover {
+    background-color: #666d75 !important
+}
+
+.text-paperviu-d7 {
+    color: #666d75 !important
+}
+
+.paperviu-e8 {
+    background-color: #ebf1f6 !important;
+}
+
+.hover-paperviu-e8:hover {
+    background-color: #ebf1f6 !important
+}
+
+.text-paperviu-e8 {
+    color: #ebf1f6 !important
+}
+
+.paperviu-e4 {
+    background-color: #e4ecf3 !important;
+}
+
+.hover-paperviu-e4:hover {
+    background-color: #e4ecf3 !important
+}
+
+.text-paperviu-e4 {
+    color: #e4ecf3 !important
+}
+
+.paperviu-63 {
+    background-color: #639eac !important;
+}
+
+.hover-paperviu-63:hover {
+    background-color: #639eac !important
+}
+
+.text-paperviu-63 {
+    color: #639eac !important
+}

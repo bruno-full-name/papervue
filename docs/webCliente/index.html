@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>web-cliente</title>
+    <link rel="stylesheet" href="src/assets/paperviu.css">
+    <link rel="stylesheet" href="src/assets/semantic.min.css">
+    <link rel="shortcut icon" href="src/assets/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="src/assets/favicon.ico" type="image/x-icon">
+    <script src="src/assets/dropbox.js"></script>
+    <script src="src/assets/jquery.js"></script>
+    <script src="src/assets/semantic.min.js"></script>
+    <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+    <script type="text/javascript" src="src/assets/bowser.js"></script>
+    <link rel="stylesheet" href="src/assets/flickity.min.css">
+</head>
+<body>
+<div id="app"></div>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({appId: '149970055740738', xfbml: true, version: 'v2.10'});
+        FB.AppEvents.logPageView();
+    };
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<script src="src/dist/build.js"></script>
+</body>
+</html>

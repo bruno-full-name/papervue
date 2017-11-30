@@ -18,7 +18,7 @@ export const store = new Vuex.Store({
         tiposList: [],
         categoriasList: [],
         contenidosList: [],
-        baseUrl: 'http://localhost:8080/web/api/'
+        baseUrl: 'http://papervue.jelastic.saveincloud.net/web/api'
     },
     getters: {
         getAtributo(state, id) {
